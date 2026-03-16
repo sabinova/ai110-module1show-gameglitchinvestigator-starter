@@ -42,6 +42,7 @@ The game is a Streamlit-based web application where players attempt to guess a r
 ## 📸 Demo
 
 - [x] [![screen_1](demo/s1.png), ![screen_2](demo/s2.png), ![screen_3](demo/s3.png)]
+- [x] [![testing_screen](demo/testing.png)]
 
 ## 🚀 Stretch Features
 
